@@ -11,6 +11,7 @@ The package includes the following files:
 - MCPCA_sample_disc_wrapper.jl, MCPCA_sample_disc.jl, utils.jl: the MCPCA method in Julia lanugage.
 - getJenksBreaks.R, jenksBrks.c: get Jenks breaks; ported from R package BAMMtools.
 - DosageGenotype.txt: dosage data.
+- ms: use _ms_ simulator.
 
 ## Reference:
 - Miao Zhang, Yiwen Liu, Hua Zhou, Jin Zhou, and Joseph Watkins. (2019). A novel non-linear dimension reduction approach to infer population structure for low-coverage sequencing data.
