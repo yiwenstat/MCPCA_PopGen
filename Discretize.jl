@@ -1,7 +1,5 @@
 ######################
 ## jenks discretizer 
-## input: a row vector
-## output: catorized labels, 
 ######################
 function Jenks_label(inputvec, num_breaks)
     R"breaks=getJenksBreaks($inputvec, k=$num_breaks)"
