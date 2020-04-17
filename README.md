@@ -72,3 +72,4 @@ The principal components of phimat_int, phimat_freq, or phimat_jenks are the opt
 - Miao Zhang, Yiwen Liu, Hua Zhou, Jin Zhou, and Joseph Watkins. (2019). A novel non-linear dimension reduction approach to infer population structure for low-coverage sequencing data.
 - Soheil Feizi and David Tse, Maximally Correlated Principal Component Analysis, arXiv:1702.05471
 - Rabosky DL, Grundler M, Anderson C, Title P, Shi JJ, Brown JW, Huang H, Larson JG. BAMM tools: an R package for the analysis of evolutionary dynamics on phylogenetic trees. Methods in Ecology and Evolution. 2014 Jul;5(7):701-7.
+- Korneliussen, T. S., Albrechtsen, A., and Nielsen, R. (2014). ANGSD: analysis of next generation sequencing data. BMC bioinformatics, 15(1):356.
