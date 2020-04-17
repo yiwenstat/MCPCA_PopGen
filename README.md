@@ -31,7 +31,7 @@ chr1	887560	0.998309	0.001691	0.000000	0.986626	0.013374	0.000000	...
 - Column 3 - 5: Genotype likelihood for the first individual
 - Column 6 - 8: Genotype likelihood for the second individual
 
-The genotype dosages are calculated using equation DS = E( N|Data ) = Pr(1|Data) + Pr(2|Data).
+The genotype dosages are calculated using equation DS = E( N|Data ) = Pr(1|Data) + 2Pr(2|Data).
 
 ### Apply MCPCA to genotype dosages
 
